@@ -16,4 +16,5 @@ Frontend:
         - npx tailwindcss init
         - Insert ["./index.html",
         "./src/**/*.{js,ts,jsx,tsx}",] into content array of tailwind.config.js
+    - React Router Dom
 
