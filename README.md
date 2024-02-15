@@ -7,7 +7,7 @@ Backend:
         - Mongoose
         - Nodemon
 
-Frontend:
+- Frontend:
     - Vite
         - npm create vite@latest
     - Tailwinds
@@ -19,4 +19,5 @@ Frontend:
     - React Router Dom
     - Axios
     - React-icons
+    - Notistack for Toast Alerts
 
